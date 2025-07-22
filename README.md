@@ -4,7 +4,7 @@ This repository contains the code used for the analyses in the article titled â€
 
 We tested hypotheses related to:
 
-    Deterministic processes such as environmental selection and evolutionary history
+    Deterministic processes such as environmental selection
 
     Patch dynamics, including competitionâ€“colonization trade-offs within microbiome networks
 
